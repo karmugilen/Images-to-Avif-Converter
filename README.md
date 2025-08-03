@@ -41,11 +41,10 @@ A lightweight, draganddrop GUI that converts PNG, JPEG, WebP, and other common f
  ```
 
 ## Requirements
- Python ≥ 3.8
- PyQt6
- Pillow ≥ 9.2
- pillowavifplugin
- imagecodecs
+ Python ≥ 3.8,
+ PyQt6,
+ Pillow ≥ 9.2,
+ pillowavifplugin.
 
 ## Example
 | Original  | Size   | After AVIF | Size   | Savings |
