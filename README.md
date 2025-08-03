@@ -10,10 +10,11 @@ A lightweight, draganddrop GUI that converts PNG, JPEG, WebP, and other common f
  Crossplatform (Windows, macOS, Linux)
 
 ## How It Works
-| Component | Purpose                                                |
-| **PyQt6** | Modern, responsive GUI                                 |
-| **Pillow** | Image loading & preprocessing                         |
-| **pillowavif** + **imagecodecs** | Fast, highquality AVIF encoding |
+| Component                         | Purpose                          |
+| --------------------------------- | -------------------------------- |
+| **PyQt6**                         | Modern, responsive GUI           |
+| **Pillow**                        | Image loading & pre-processing   |
+| **pillow-avif** + **imagecodecs** | Fast, high-quality AVIF encoding |
 
 ## Installation
 
@@ -48,7 +49,9 @@ A lightweight, draganddrop GUI that converts PNG, JPEG, WebP, and other common f
 
 ## Example
 | Original  | Size   | After AVIF | Size   | Savings |
+| --------- | ------ | ---------- | ------ | ------- |
 | photo.png | 2.4 MB | photo.avif | 480 KB | 80 %    |
+
 
 ## Contributing
 Pull requests are welcome. Please open an issue first for major changes.
