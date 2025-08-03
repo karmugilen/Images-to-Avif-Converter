@@ -9,6 +9,8 @@ A lightweight, draganddrop GUI that converts PNG, JPEG, WebP, and other common f
  Preserves transparency (PNG → AVIF with alpha) 
  Crossplatform (Windows, macOS, Linux)
 
+![Feature Screenshot](assert/image1.png)
+
 ## How It Works
 | Component                         | Purpose                          |
 | --------------------------------- | -------------------------------- |
@@ -51,7 +53,5 @@ A lightweight, draganddrop GUI that converts PNG, JPEG, WebP, and other common f
 | --------- | ------ | ---------- | ------ | ------- |
 | photo.png | 2.4 MB | photo.avif | 480 KB | 80 %    |
 
-
 ## Contributing
 Pull requests are welcome. Please open an issue first for major changes.
-
